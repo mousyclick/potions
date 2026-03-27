@@ -1,0 +1,7 @@
+build
+
+# EMACS FILES
+*~
+*.save
+\#*#
+.direnv
